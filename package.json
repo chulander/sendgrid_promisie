@@ -1,6 +1,6 @@
 {
   "name": "sendgridie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promsified wrapper to interact with sendgrid-nodejs",
   "main": "index.js",
   "scripts": {
