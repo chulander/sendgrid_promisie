@@ -1,6 +1,6 @@
 {
   "name": "sendgrid_promisie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Promsified wrapper to interact with sendgrid-nodejs",
   "main": "index.js",
   "scripts": {
