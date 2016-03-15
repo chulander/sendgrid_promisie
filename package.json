@@ -1,13 +1,13 @@
 {
   "name": "sendgrid_promisie",
   "version": "1.0.0",
-  "description": "",
+  "description": "Promsified wrapper to interact with sendgrid-nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "chulander",
+  "license": "MIT",
   "dependencies": {
     "promisie": "^1.0.4",
     "sendgrid": "^2.0.0",
